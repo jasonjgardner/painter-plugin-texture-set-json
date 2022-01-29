@@ -30,8 +30,7 @@ PainterPlugin
 			
 			// (or save to project directory)
 			//var dir = alg.fileIO.urlToLocalFile(alg.project.url())
-
-			dir = dir.substring(0, dir.lastIndexOf("/"));
+			//dir = dir.substring(0, dir.lastIndexOf("/"));
 
 			// Export a texture set JSON file for each material in the project
 			doc.materials.forEach(function(material) {
