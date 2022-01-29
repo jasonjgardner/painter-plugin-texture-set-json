@@ -1,7 +1,7 @@
 {
   "description": "Generate .texture_set.json file for Minecraft",
   "url": "https://github.com/jasonjgardner/painter-plugin-texture-set-json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "<a href=\"https://opensource.org/licenses/MIT\">MIT</a>",
   "min_api_version": "1.1.15"
 }
